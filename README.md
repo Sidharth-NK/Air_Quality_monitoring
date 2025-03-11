@@ -60,8 +60,9 @@ This wiring connections can be simplified by just using the grove connectors
 
 ---
 
-## License  
-This project is **open-source** and can be modified for personal or research purposes.  
+## License   
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
 
 ---
 
